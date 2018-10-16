@@ -4,11 +4,11 @@ repo for my homework using node
 
 #commands are
 
-movie-this + <movie>
+movie-this + *movie*
   
-spotify-this-song + <song>
+spotify-this-song + *song*
   
-bands-in-town + <band>
+bands-in-town + *band*
   
   
   
