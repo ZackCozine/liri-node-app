@@ -5,8 +5,11 @@ repo for my homework using node
 #commands are
 
 movie-this + <movie>
+  
 spotify-this-song + <song>
+  
 bands-in-town + <band>
+  
   
   
 #Screen Capture showing "liri" in action!  
