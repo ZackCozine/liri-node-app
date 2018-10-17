@@ -17,6 +17,6 @@ bands-in-town + *band*
 
 
 #Screenshots in case the video doesn't load
-https://drive.google.com/open?id=1U-YklWfWBx0kNB3N2abZHDqOu_Ivi6Qh
-https://drive.google.com/open?id=11tekWH7yrLtbw2H8DNebDv11KjTn4C4G
-https://drive.google.com/open?id=1z1YHawSD2q-UXhwrGl-2r5gJC0k9P-Kz
+![] (https://drive.google.com/open?id=1U-YklWfWBx0kNB3N2abZHDqOu_Ivi6Qh)
+![] (https://drive.google.com/open?id=11tekWH7yrLtbw2H8DNebDv11KjTn4C4G)
+![] (https://drive.google.com/open?id=1z1YHawSD2q-UXhwrGl-2r5gJC0k9P-Kz)
