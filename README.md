@@ -14,3 +14,7 @@ bands-in-town + *band*
   
 #Screen Capture showing "liri" in action!  
   https://drive.google.com/file/d/1mwgq_PuKHJkk9zIgvZS4zniCgFd5bkwq/view
+
+
+#Screenshots in case the video doesn't load
+https://drive.google.com/drive/folders/1v6zD_sBstjxPuv7hDJluglj3ux53Ia9r?usp=sharing
